@@ -1,0 +1,56 @@
+body{
+  background-color: #d5ecc2 ;
+}
+h1{
+  color: #47597E;
+text-align: center;
+
+}
+
+h2{
+  color: #39A6A3 ;
+  text-align: center;
+}
+h4{
+  color: #053742 ;
+}
+p{
+  font-size: 1.473em;
+  font-style: oblique;
+}
+.checked {
+  color: orange;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+background-color: #4CAF50;
+  color: #fff;
+
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.fa {
+
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.select {
+  border-color: #04AA6D;
+  color: green;
+}
+.next {
+  border-color: #2196F3;
+  color: dodgerblue
+}
